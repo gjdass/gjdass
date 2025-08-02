@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gustave, I live in [Montreal, QC, Canada](https://goo.gl/maps/DBi9mANPTN7DRDfk7) 🍁
-- 🏢 I work at [Societe Generale](https://github.com/societe-generale) as a technical leader
+- 🏢 I work at [Societe Generale](https://github.com/societe-generale) as Head of FixedIncome deal processing framework for the Americas
 - 👀 I’m interested in development in general. Angular, NET6, CI/CD, DevOps, NATS, you name it
-- 🌱 I’m currently learning Angular, advanced algorithms ...
 - 📫 How to reach me : [@dassonvilleg](https://twitter.com/dassonvilleg)
 
 <!---
